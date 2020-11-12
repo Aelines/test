@@ -1,0 +1,28 @@
+.content {
+   width: 850px;
+}
+
+.label {
+  text-align: center;
+}
+
+.list {
+   display: flex;
+   flex-wrap: wrap;
+   border-right: 1px solid black;
+}
+
+.item {
+   margin: 0 20px;
+}
+
+.line {
+   display: flex;
+   justify-content: space-between;
+}
+
+.employees {
+   width: 170px;
+   height: 200px;
+   overflow: auto;
+}
